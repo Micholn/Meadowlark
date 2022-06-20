@@ -1,0 +1,25 @@
+{
+  "name": "nald",
+  "version": "1.0.0",
+  "description": "a learning experience as described by sam ",
+  "main": "naldy.js",
+  "scripts": {
+    "start": "nodemon meadowlark.js"
+  },
+  "keywords": [
+    "nobody",
+    "cares"
+  ],
+  "author": "who else but the guy in his own creed",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1",
+    "express3-handlebars": "^0.5.2",
+    "formidable": "^2.0.1",
+    "multer": "^1.4.5-lts.1",
+    "nodemailer": "^6.7.2",
+    "nodemon": "^2.0.15",
+    "url": "^0.11.0"
+  }
+}
